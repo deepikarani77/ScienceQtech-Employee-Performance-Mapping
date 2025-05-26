@@ -1,7 +1,7 @@
-SQL Project         ScienceQtech-Employee-Performance-Mapping
+SQL Project        =  ScienceQtech-Employee-Performance-Mapping
 
 
-Author - Deepika Rani
+Author             =  Deepika Rani
 
 Problem scenario
 ------------------
